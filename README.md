@@ -1,2 +1,1 @@
-# J.A.R.V.I.S
-J.A.R.V.I.S – An AI-powered Python voice assistant that listens, talks, answers with LLaMA AI, plays music, fetches news, and performs smart voice commands. Your desktop AI companion.
+J.A.R.V.I.S : A Python-based voice assistant inspired by Tony Stark’s iconic J.A.R.V.I.S from Iron Man. This project combines speech recognition, text-to-speech, music playback, real-time news updates, and AI-powered conversations using Groq’s LLaMA model—bringing a futuristic personal assistant to your desktop.
